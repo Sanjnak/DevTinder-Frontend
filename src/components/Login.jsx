@@ -35,7 +35,7 @@ const Login = () => {
       <div className="min-h-screen bg-base-100 flex flex-col items-center justify-center px-4">
         {/* Logo */}
         <div className="mb-10 text-2xl font-bold text-white font-mono tracking-tight">
-          &lt;/&gt; devTinder
+          &lt;/&gt; DevConnect
         </div>
 
         {/* Card */}
