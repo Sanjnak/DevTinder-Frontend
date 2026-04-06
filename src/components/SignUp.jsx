@@ -51,7 +51,7 @@ const SignUp = () => {
     <div className="min-h-screen bg-base-100 flex flex-col items-center justify-center px-4 py-10">
       {/* Logo */}
       <div className="mb-8 text-2xl font-bold text-white font-mono tracking-tight">
-        &lt;/&gt; devTinder
+        &lt;/&gt; DevConnect
       </div>
 
       <div className="w-full max-w-2xl">
