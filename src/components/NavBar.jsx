@@ -57,7 +57,7 @@ const NavBar = () => {
        <div className="navbar bg-base-100 border-b border-base-300 px-8 py-4">
         <div className="flex-1">
           <Link to="/" className="text-xl font-bold text-white font-mono">
-            &lt;/&gt; devTinder
+            &lt;/&gt; DevConnect
           </Link>
         </div>
         <div className="flex items-center gap-4">
